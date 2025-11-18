@@ -1,1 +1,3 @@
-alert('Hello User');
+import homeLoad from './home.js';
+
+homeLoad();
